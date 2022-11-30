@@ -33,7 +33,7 @@ Investing in films remains risky- there are significant cost outlays to produce 
  Any films this new media arm releases should be put out in early summer to maximize profit.
 
 
-### Further Inquiry
+## Further Inquiry
 - #### Streaming Services
 
 It would be worth taking the time to research live streaming ROI to weigh the possible advantages of capturing both theater and home streaming income.  Theater income is just starting to recover from it's covid induced dip, and income from streaming coud be a excellent way to insulate the media division from future losses as home viewing theaters become more popular.  
